@@ -1,0 +1,9 @@
+<suite name="TestNGSuite">
+ <test name="test1">
+   <classes>
+      <class name="Yixin.Taoche.TestScripts.TestCreateCarPage"/>
+      <class name="Yixin.Taoche.TestScripts.TestTiantianpaiPage"/>
+      <class name="Yixin.Taoche.TestScripts.TestSearchPage"/>
+    </classes>
+ </test>
+</suite>

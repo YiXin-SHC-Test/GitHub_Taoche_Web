@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34353" started-at="2017-07-21T02:10:59Z" finished-at="2017-07-21T02:11:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34353" started-at="2017-07-21T02:10:59Z" finished-at="2017-07-21T02:11:34Z">
+      <class name="Yixin.Taoche.TestScripts.TestTiantianpaiPage">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:Yixin.Taoche.TestScripts.TestTiantianpaiPage@169d6a08]" name="BeforeTest" is-config="true" duration-ms="245" started-at="2017-07-21T10:10:59Z" finished-at="2017-07-21T10:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Yixin.Taoche.TestScripts.TestTiantianpaiPage@169d6a08]" name="openBrowser" is-config="true" duration-ms="7888" started-at="2017-07-21T10:11:00Z" finished-at="2017-07-21T10:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="TaintianpaiPage()[pri:0, instance:Yixin.Taoche.TestScripts.TestTiantianpaiPage@169d6a08]" name="TaintianpaiPage" duration-ms="25686" started-at="2017-07-21T10:11:07Z" finished-at="2017-07-21T10:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaintianpaiPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Yixin.Taoche.TestScripts.TestTiantianpaiPage@169d6a08]" name="closeBrowser" is-config="true" duration-ms="523" started-at="2017-07-21T10:11:33Z" finished-at="2017-07-21T10:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Yixin.Taoche.TestScripts.TestTiantianpaiPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
